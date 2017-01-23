@@ -3,13 +3,13 @@ Resume website template. Comes with 4 different sections, that light up 4 differ
 
 The only file you will need to provide is favicon.ico. Enjoy :)
 
-![Alt text](/1.png?raw=true "Square 1")
+![Alt text](/11.png?raw=true "Square 1")
 
 
-![Alt text](/2.png?raw=true "Square 2")
+![Alt text](/22.png?raw=true "Square 2")
 
 
-![Alt text](/3.png?raw=true "Square 3")
+![Alt text](/33.png?raw=true "Square 3")
 
 
-![Alt text](/4.png?raw=true "Square 4")
+![Alt text](/44.png?raw=true "Square 4")
